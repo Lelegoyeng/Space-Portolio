@@ -8,10 +8,10 @@ export default function Home() {
   return (
     <main className="h-full w-full">
       <div className="flex flex-col gap-20">
-        <Hero />
-        <Skills />
+        {/* <Hero />
+        <Skills /> */}
         <Encryption />
-        <Projects />
+        {/* <Projects /> */}
       </div>
     </main>
   );
